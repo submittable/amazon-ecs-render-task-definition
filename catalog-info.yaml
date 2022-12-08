@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: amazon-ecs-render-task-definition
+  description: Inserts a container image URI into an Amazon ECS task definition JSON file.
+  annotations:
+    github.com/project-slug: submittable/amazon-ecs-render-task-definition
+  tags: []
+spec:
+  type: service
+  owner: unassigned
+  lifecycle: production
+  
