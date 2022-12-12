@@ -9,5 +9,5 @@ metadata:
 spec:
   type: service
   owner: unassigned
-  lifecycle: production
+  lifecycle: experimental
   
